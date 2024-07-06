@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Pintu Hembram]
+👋 Hi there! I'm Pintu Hembram
 🎓 Computer Science Engineering Student 
 🔍 Passionate about solving complex problems and learning new technologies  
 💡 Interested in Artificial Intelligence, Machine Learning, and Web Development  
