@@ -34,7 +34,7 @@
 - Instagram: https://www.instagram.com/gareebengineer_pin2/
 - YouTube:- https://www.youtube.com/@HoCoder
 - LinkedIn: https://www.linkedin.com/in/pintu-hembram-1a3b691a5/
-- Twitter: [Your Twitter Handle]()
+- Twitter: https://x.com/Coder_Pintu
 - Email: [pintuhembram@outlook.com] (pintuhembram@hembram.hembram.onmicrosoft.com)
 
 ---
