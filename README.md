@@ -1,8 +1,8 @@
--👋 Hi there! I'm Pintu Hembram
--🎓 Computer Science Engineering Student 
--🔍 Passionate about solving complex problems and learning new technologies  
--💡 Interested in Artificial Intelligence, Machine Learning, and Web Development  
--🌱 Currently enhancing my skills in Python, JavaScript, and Cloud Computing
+- 👋 Hi there! I'm Pintu Hembram
+- 🎓 Computer Science Engineering Student 
+- 🔍 Passionate about solving complex problems and learning new technologies  
+- 💡 Interested in Artificial Intelligence, Machine Learning, and Web Development  
+- 🌱 Currently enhancing my skills in Python, JavaScript, and Cloud Computing
 
 ---
 
