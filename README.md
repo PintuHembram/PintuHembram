@@ -1,45 +1,18 @@
-- 👋 Hi there! I'm Pintu Hembram
-- 🎓 Computer Science Engineering Student 
-- 🔍 Passionate about solving complex problems and learning new technologies  
-- 💡 Interested in Artificial Intelligence, Machine Learning, and Web Development  
-- 🌱 Currently enhancing my skills in Python, JavaScript, and Cloud Computing
+# 💫 About Me:
+👋 Hi there! I'm Pintu Hembram<br>🎓 Computer Science Engineering Student<br>🔍 Passionate about solving complex problems and learning new technologies<br>💡 Interested in Artificial Intelligence, Machine Learning, and Web Development<br>🌱 Currently enhancing my skills in Python, JavaScript, and Cloud Computing
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gareebengineer_pin2/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pintu-hembram-1a3b691a5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Coder_Pintu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@HoCoder) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PintuHembram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PintuHembram&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PintuHembram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=PintuHembram&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 Skills & Technologies:
-- Programming Languages: Python, Java, C++, JavaScript
-- Web Development: HTML, CSS, React, Node.js
-- Database Management: SQL, MongoDB
-- Tools & Platforms: Git, Docker, AWS, Linux
-
----
-
-🌟 Projects:
-- Integrated Financial Services Microservices Web Portal: The "Integrated Financial Services Microservices Web Portal" is a comprehensive web-based platform designed to provide various financial services through a microservices architecture. This portal aims to offer functionalities such as AEPS (Aadhaar Enabled Payment System) Money Withdrawal, Money Dispatch, Balance Inquiry, and other customer service-related operations. Each service is managed by an independent microservice, enabling scalability, maintainability, and flexibility.
-- [Project Name](link-to-repo): Brief description of what the project does or its purpose.
-- [Project Name](link-to-repo): Brief description of what the project does or its purpose.
-
----
-
-💼 Experience:
-- Internship Position at Hembram IT Solutions Pvt.Ltd (03-2020 - Continue)  
-- Developed using C, Java, Python, HTML, CSS, JavaScript 
-- Contributed to [project/aspect] leading to [result/impact]
-- Volunteer/Research Assistant at Organization/Institution (Month Year - Month Year)  
-- Assisted in [research/task]
-- Implemented [solution/feature] using [technologies]
-
----
-📫 Let's Connect:
-- Instagram: https://www.instagram.com/gareebengineer_pin2/
-- YouTube:- https://www.youtube.com/@HoCoder
-- LinkedIn: https://www.linkedin.com/in/pintu-hembram-1a3b691a5/
-- Twitter: https://x.com/Coder_Pintu
-- Email: [pintuhembram@outlook.com] (pintuhembram@hembram.hembram.onmicrosoft.com)
-
----
-
-Feel free to customize it further according to your achievements and preferences!
-PintuHembram/PintuHembram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
