@@ -23,7 +23,7 @@
 
 💼 Experience:
 - Internship Position at Hembram IT Solutions Pvt.Ltd (03-2020 - Continue)  
-- Developed [] using [technologies]
+- Developed using C, Java, Python, HTML, CSS, JavaScript 
 - Contributed to [project/aspect] leading to [result/impact]
 - Volunteer/Research Assistant at Organization/Institution (Month Year - Month Year)  
 - Assisted in [research/task]
